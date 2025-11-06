@@ -1,8 +1,8 @@
 # dp-xai-implementation
 Implementation of Privacy-Preserving Explainability through Knowledge Distillation
-# Implementation for [Your Paper Title]
+# Implementation for Differential Privacy in Explainable AI
 
-This repository contains the Python implementation for the research paper "DP in XAI" submitted to ISCS '25 and as Capstone Project.
+This repository contains the Python implementation for the research paper "DP in XAI" submitted to ISCS '25 and as final year Capstone Project.
 
 The code demonstrates the training and evaluation of baseline models, DP-SGD (Differentially Private) models, and Knowledge Distillation (KD) student models for both classification and regression tasks.
 
