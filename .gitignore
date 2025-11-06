@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Generated artifacts and models
+artifacts/
+test_cases/
+
+# Generated data files
+*.npy
+*.npz
+*.pt
+*.pth
+*.joblib
+reconstructed_real_values_*.csv
+shap_feature_importance_*.csv
+teacher_shap_importance_reg*.csv
+student_shap_importance_reg*.csv
+cleaned_overdose_data*.csv
